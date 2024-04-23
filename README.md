@@ -1,3 +1,6 @@
+
+## Develop By:INDRAJA.S
+## Reg No:212222043003
 # Ex.No:1a  			Study of Socket Programming
 
 ## Aim: 
